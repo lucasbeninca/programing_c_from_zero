@@ -1,0 +1,5 @@
+# Configurações de projeto do JetBrains (CLion, etc.)
+/.idea/
+
+# Pastas de build do CMake
+/cmake-build-*/
