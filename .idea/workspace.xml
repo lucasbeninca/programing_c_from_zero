@@ -7,9 +7,9 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -26,19 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a09bf7f-bfee-4394-ab8a-fce395561764" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/programing_c_from_zero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpp_course/exercises/anatomia.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpp_course/exercises/printInConsole.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpp_course/exercises/variables.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp_course/exercises/hello" beforeDir="false" afterPath="$PROJECT_DIR$/cpp_course/exercises/variables" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp_course/exercises/hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp_course/exercises/hello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp_course/exercises/tiposPrimitivos.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp_course/exercises/tiposPrimitivos.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +46,28 @@
     <option name="minorVersion" value="2.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="32xvX0syV2WK6xM68Gg2kwSqcyx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.entradaESaidaDeDados.cpp.executor": "Run",
     "C/C++ File.printInConsole.cpp.executor": "Run",
+    "C/C++ File.raioDaCircuferencia.cpp.executor": "Run",
+    "C/C++ File.std.cpp.executor": "Run",
+    "C/C++ File.tiposPrimitivos.cpp.executor": "Run",
     "C/C++ File.variables.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -86,18 +85,48 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.build",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.variables.cpp">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.tiposPrimitivos.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="entradaESaidaDeDados.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="entradaESaidaDeDados.cpp" CONFIG_NAME="entradaESaidaDeDados.cpp">
+      <option name="sourceFile" value="cpp_course/exercises/entradaESaidaDeDados.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exemploNamespace.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="exemploNamespace.cpp" CONFIG_NAME="exemploNamespace.cpp">
+      <option name="sourceFile" value="cpp_course/exercises/exemploNamespace.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="printInConsole.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="printInConsole.cpp" CONFIG_NAME="printInConsole.cpp">
       <option name="sourceFile" value="cpp_course/exercises/printInConsole.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="raioDaCircuferencia.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="raioDaCircuferencia.cpp" CONFIG_NAME="raioDaCircuferencia.cpp">
+      <option name="sourceFile" value="cpp_course/exercises/raioDaCircuferencia.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="std.cpp" CONFIG_NAME="std.cpp">
+      <option name="sourceFile" value="cpp_course/exercises/std.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tiposPrimitivos.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programing_c_from_zero" TARGET_NAME="tiposPrimitivos.cpp" CONFIG_NAME="tiposPrimitivos.cpp">
+      <option name="sourceFile" value="cpp_course/exercises/tiposPrimitivos.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -108,6 +137,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.tiposPrimitivos.cpp" />
+        <item itemvalue="C/C++ File.raioDaCircuferencia.cpp" />
+        <item itemvalue="C/C++ File.entradaESaidaDeDados.cpp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +152,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758375075105</updated>
-      <workItem from="1758375076745" duration="731000" />
+      <workItem from="1758375076745" duration="1150000" />
+      <workItem from="1758376902746" duration="11975000" />
     </task>
     <servers />
   </component>
